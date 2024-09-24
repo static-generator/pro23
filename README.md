@@ -15,4 +15,4 @@ These are the Reference Pics below
 
 ![maxresdefault](https://github.com/user-attachments/assets/1e59cadd-7bd0-4c4c-a3bb-85b02500ae42)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/48lxT5qJF0yYyf2z4wB4xW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+https://open.spotify.com/embed/track/48lxT5qJF0yYyf2z4wB4xW?utm_source=generator
